@@ -1,3 +1,1 @@
-Hi there. I'm Johannes and I like to solve problems, read, and play games.
-
-I'm currently contributing to Cataclysm-DDA, a single-player roguelike post-apocalyptic sandbox game built in C++.
+Hi there. I'm Johannes. Currently experimenting with Vulkan to make stuff.
